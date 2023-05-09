@@ -98,3 +98,11 @@ header {
 .item ul li {
     margin-bottom: 0.2em;
 }
+
+/* FOOTER */
+footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
