@@ -115,3 +115,7 @@ a {
 .skills {
     padding: 50px 0;
 }
+li.language a {
+    color: white;
+  }
+  
